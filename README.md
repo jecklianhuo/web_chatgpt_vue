@@ -26,7 +26,7 @@ Back-end repository（后端代码仓库gitee）: <https://github.com/jecklianhu
 
 ## Preview
 
-![screenshot](screenshot/sc1.jpg)
+![screenshot](screenshot/sc1.png)
 
 ## 开发
 
