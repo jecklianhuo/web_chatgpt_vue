@@ -12,6 +12,8 @@ Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API
 Back-end repository（后端代码仓库github）: <https://github.com/jecklianhuo/web_chatGpt_api.git><br>
 Back-end repository（后端代码仓库gitee）: <https://github.com/jecklianhuo/web_chatGpt_api.git><br>
 
+### 希望能获得大家的start
+
 本项目主要是让大家都能畅玩CHATGPT
 
 ## Feature
